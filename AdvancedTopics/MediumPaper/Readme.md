@@ -1,5 +1,11 @@
 GANs in Digital Pathology
 
+1. Published in medium.com. Link: https://medium.com/@gulnara.timokhina/gans-in-digital-pathology-59448ddbaf4e
+
+2. Presentation on slideshare.com. Link: https://www.slideshare.net/GulyaTimokhina/gans-in-digital-pathology
+
+3. Video with slides
+
 Based on the paper: “Generative Adversarial Networks in Digital Pathology: A Survey on Trends and Future Potential”
 https://arxiv.org/pdf/2004.14936.pdf
 
